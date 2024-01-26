@@ -67,7 +67,7 @@
 
         <p  class="text-lg mt-5 text-center mb-10">
             Añade Pacientes y
-            <span class="text-indigo-600 font-bold ">Adminístralos</span>
+            <span class="text-violet-600 font-bold ">Adminístralos</span>
         </p>
         <Alerta
             v-if="alerta.mensaje"
